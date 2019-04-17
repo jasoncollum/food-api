@@ -1,0 +1,18 @@
+#container {
+    margin: 0 10px;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+}
+
+.food-item {
+    width: 20%;
+    margin: 5px 10px;
+    padding: 10px;
+    border: 1px solid red;
+    
+}
+
+h2 {
+    text-align: center;
+}
